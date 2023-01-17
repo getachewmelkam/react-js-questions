@@ -1,0 +1,114 @@
+[
+    {
+        "id": "01",
+        "question" : "What is React.js?",
+        "options": [
+            "Open-source JavaScript back-end library",
+            " JavaScript front-end library to create a database",
+            "Free and open-source JavaScript front-end library",
+            "None of the mentioned"
+        ],
+        "answer": "Free and open-source JavaScript front-end library"
+    },
+    {
+        "id": "02",
+        "question" : "Which of the following acts as the input of a class-based component?",
+        "options": [
+            "Class",
+            "Props",
+            "Factory",
+            "None of the mentioned"
+        ],
+        "answer": "Props"
+    },
+    {
+        "id": "03",
+        "question" : "React.js is written in which of the following language?",
+        "options": [
+            "C",
+            "C++",
+            "Javascript",
+            "Java"
+        ],
+        "answer": "Javascript"
+    },
+    {
+        "id": "04",
+        "question" : "How many elements can a valid react component return?",
+        "options": [
+            "React doesn’t return element",
+            " 1 Element",
+            "More than 1 element",
+            "None of the mentioned"
+        ],
+        "answer": "1 Element"
+    },
+    {
+        "id": "05",
+        "question" : " In which of the following directory React Components are saved?",
+        "options": [
+            "Inside js/components/",
+            "Inside components/js/",
+            "Inside vendor/js/components/",
+            "Inside vendor/components/"
+        ],
+        "answer": "Inside js/components/"
+    },
+    {
+        "id": "06",
+        "question" : " Which of the following command is used to Install create-react-app?",
+        "options": [
+            "npm install create-react-app",
+            " npm install -f create-react-app",
+            "npm install create-react-app",
+            " install -g create-react-app"
+        ],
+        "answer": "npm install create-react-app"
+    },
+    {
+        "id": "07",
+        "question" : "In which condition is the React.js Lifecycle method static getDerivedSateFromProps(props, state) is called?",
+        "options": [
+            "When the state of the component is updated",
+            "When a component is created for the first time",
+            "Both of the mentioned",
+            " None of the mentioned"
+        ],
+        "answer": "Both of the mentioned"
+    },
+    {
+        "id": "08",
+        "question" : "Which of the following is method is not a part of ReactDOM?",
+        "options": [
+            "ReactDOM.hydrate()",
+            "ReactDOM.destroy()",
+            "ReactDOM.createPortal()",
+            "All of the mentioned"
+        ],
+        "answer": "ReactDOM.destroy()"
+    },
+    {
+        "id": "09",
+        "question" : "Which of the following is correct about prop in react?",
+        "options": [
+            "Can be changed inside another component",
+            "Can be changed inside the component",
+            "Cannot be changed in the component",
+            "All of the mentioned"
+        ],
+        "answer": "Cannot be changed in the component"
+    },
+    {
+        "id": "10",
+        "question" : "Which of the following is used to pass data to a component from outside in React?",
+        "options": [
+            "props",
+            "render with arguments",
+            "setState",
+            "PropTypes"
+        ],
+        "answer": "props"
+    }
+   
+
+]
