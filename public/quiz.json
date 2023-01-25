@@ -37,7 +37,7 @@
         "question" : "How many elements can a valid react component return?",
         "options": [
             "React doesn’t return element",
-            " 1 Element",
+            "1 Element",
             "More than 1 element",
             "None of the mentioned"
         ],
@@ -60,7 +60,7 @@
         "options": [
             "npm install create-react-app",
             " npm install -f create-react-app",
-            "npm install create-react-app",
+            "npx install create-react-app",
             " install -g create-react-app"
         ],
         "answer": "npm install create-react-app"
