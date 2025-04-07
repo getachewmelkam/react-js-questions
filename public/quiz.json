@@ -1,114 +1,88 @@
 [
     {
         "id": "01",
-        "question" : "What is React.js?",
+        "question" : "A markup language is a dynamic programming language that uses logic",
         "options": [
-            "Open-source JavaScript back-end library",
-            " JavaScript front-end library to create a database",
-            "Free and open-source JavaScript front-end library",
-            "None of the mentioned"
+            "TRUE",
+            "FALSE"
+   
         ],
-        "answer": "Free and open-source JavaScript front-end library"
+        "answer": "FALSE"
     },
     {
         "id": "02",
-        "question" : "Which of the following acts as the input of a class-based component?",
+        "question" : "HTML users predefined tagged and elements which tell the browser how to properlydisplay contents",
         "options": [
-            "Class",
-            "Props",
-            "Factory",
-            "None of the mentioned"
+            "TRUE",
+            "FALSE"
+           
+           
         ],
-        "answer": "Props"
+        "answer": "TRUE"
     },
     {
         "id": "03",
-        "question" : "React.js is written in which of the following language?",
+        "question" : "The <body> tag consists of all visible contents of a webpage",
         "options": [
-            "C",
-            "C++",
-            "Javascript",
-            "Java"
+"TRUE",
+"FALSE"
         ],
-        "answer": "Javascript"
+        "answer": "TRUE"
     },
     {
         "id": "04",
-        "question" : "How many elements can a valid react component return?",
+        "question" : "The color property of CSS is used to change the background image of an element",
         "options": [
-            "React doesn’t return element",
-            "1 Element",
-            "More than 1 element",
-            "None of the mentioned"
+            "TRUE",
+            "FALSE"
+           
         ],
-        "answer": "1 Element"
+        "answer": "FALSE"
     },
     {
         "id": "05",
-        "question" : " In which of the following directory React Components are saved?",
+        "question" : " CSS allows you to apply styleto multiple elements at once using class selector",
         "options": [
-            "Inside js/components/",
-            "Inside components/js/",
-            "Inside vendor/js/components/",
-            "Inside vendor/components/"
+            "TRUE",
+            "FALSE"
+            
         ],
-        "answer": "Inside js/components/"
+        "answer": "TRUE"
     },
     {
         "id": "06",
-        "question" : " Which of the following command is used to Install create-react-app?",
+        "question" : " what is the primary purpose of markup language",
         "options": [
-            "npm install create-react-app",
-            " npm install -f create-react-app",
-            "npx install create-react-app",
-            " install -g create-react-app"
+            "To structure, organize and present data or content",
+            " To manage database",
+            "To compile and excute code",
+            " To perform complex calculation"
         ],
-        "answer": "npm install create-react-app"
+        "answer": "To structure, organize and present data or content"
     },
     {
         "id": "07",
-        "question" : "In which condition is the React.js Lifecycle method static getDerivedSateFromProps(props, state) is called?",
+        "question" : "Which one is true about HTML tags",
         "options": [
-            "When the state of the component is updated",
-            "When a component is created for the first time",
-            "Both of the mentioned",
-            " None of the mentioned"
+            "HTML tags is case sensitive",
+            "HTML tags are not case sensitive",
+            "HTML tags are uppercase",
+            "HTML tags are lowercase"
         ],
-        "answer": "Both of the mentioned"
+        "answer": "HTML tags are not case sensitive"
     },
     {
         "id": "08",
-        "question" : "Which of the following is method is not a part of ReactDOM?",
+        "question" : "What is the function of <title> tag in HTML",
         "options": [
-            "ReactDOM.hydrate()",
-            "ReactDOM.destroy()",
-            "ReactDOM.createPortal()",
-            "All of the mentioned"
+           "Make text bold",
+            "Define mean heading in ",
+            "Add a footer to a page",
+ "Display a pages title in browser's tab"
         ],
-        "answer": "ReactDOM.destroy()"
+        "answer": "Display a pages title in browser's tab"
     },
-    {
-        "id": "09",
-        "question" : "Which of the following is correct about prop in react?",
-        "options": [
-            "Can be changed inside another component",
-            "Can be changed inside the component",
-            "Cannot be changed in the component",
-            "All of the mentioned"
-        ],
-        "answer": "Cannot be changed in the component"
-    },
-    {
-        "id": "10",
-        "question" : "Which of the following is used to pass data to a component from outside in React?",
-        "options": [
-            "props",
-            "render with arguments",
-            "setState",
-            "PropTypes"
-        ],
-        "answer": "props"
-    }
+ 
    
 
 ]
